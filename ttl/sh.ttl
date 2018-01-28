@@ -1,0 +1,442 @@
+<http://dbpedia.org/resource/Macbeth_(character)> <http://purl.org/dc/terms/description> "character from Shakespeare's play"@en .
+<http://dbpedia.org/resource/Juliet> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://purl.org/dc/terms/description> "Musician"@en .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1949-6-3"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Clive Shakespeare"@en .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://dbpedia.org/ontology/deathDate> "2012-2-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Clive"@en .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Clive_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://purl.org/dc/terms/description> "British sociologist"@en .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1966-5-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Tom Shakespeare"@en .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Tom"@en .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Tom_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Edmond_Malone> <http://purl.org/dc/terms/description> "Irish Shakespearean scholar and editor"@en .
+<http://dbpedia.org/resource/Puck_(A_Midsummer_Night's_Dream)> <http://purl.org/dc/terms/description> "character from Shakespeare's \\\\\\\\Midsummer Night's Dream\\\\\\\\ play"@en .
+<http://dbpedia.org/resource/George_Steevens> <http://purl.org/dc/terms/description> "English editor of the works of William Shakespeare"@en .
+<http://dbpedia.org/resource/Thomas_Quiney> <http://purl.org/dc/terms/description> "English vintner and tobacconist, and William Shakespeare's son-in-law"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://purl.org/dc/terms/description> "American writer"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://dbpedia.org/ontology/birthDate> "1837-7-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://xmlns.com/foaf/0.1/name> "William Shakespeare Hays"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://dbpedia.org/ontology/deathDate> "1907-7-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hays> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Horace_Howard_Furness> <http://purl.org/dc/terms/description> "American Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://purl.org/dc/terms/description> "Canadian politician"@en .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1839-1-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Noah Shakespeare"@en .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1921-5-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Noah"@en .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Noah_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Anne_Barton> <http://purl.org/dc/terms/description> "American-English scholar and Shakespearean critic"@en .
+<http://dbpedia.org/resource/Leopold_Hartley_Grindon> <http://purl.org/dc/terms/description> "English botanist and Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Canberra> .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://purl.org/dc/terms/description> "Australian businessman"@en .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1909-7-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Heather Shakespeare"@en .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://dbpedia.org/ontology/deathDate> "2008-9-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Heather"@en .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Heather_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Henry_Scharf> <http://purl.org/dc/terms/description> "illustrator, Shakespearean actor, and a professor of elocution"@en .
+<http://dbpedia.org/resource/Bardolph_(Shakespeare_character)> <http://xmlns.com/foaf/0.1/name> "Bardolph"@en .
+<http://dbpedia.org/resource/Bardolph_(Shakespeare_character)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Bardolph_(Shakespeare_character)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Erica_Whyman> <http://purl.org/dc/terms/description> "Deputy Artistic Director at the Royal Shakespeare Company"@en .
+<http://dbpedia.org/resource/Michael_Williams_(Henry_V)> <http://purl.org/dc/terms/description> "Character in William Shakespeare's play Henry V"@en .
+<http://dbpedia.org/resource/Iago> <http://purl.org/dc/terms/description> "fictional character in William Shakespeare's Othello"@en .
+<http://dbpedia.org/resource/John_Jowett> <http://purl.org/dc/terms/description> "English Shakespeare scholar and editor"@en .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://purl.org/dc/terms/description> "Trustee of the London Globe Theatre"@en .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://xmlns.com/foaf/0.1/name> "Thomas Savage"@en .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://dbpedia.org/ontology/deathDate> "1611-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://xmlns.com/foaf/0.1/givenName> "Thomas"@en .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Thomas_Savage_(Shakespeare's_trustee)> <http://xmlns.com/foaf/0.1/surname> "Savage"@en .
+<http://dbpedia.org/resource/Frank_W._Wadsworth> <http://purl.org/dc/terms/description> "Shakespearean scholar and writer"@en .
+<http://dbpedia.org/resource/Mercutio> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://purl.org/dc/terms/description> "English genre and historical painter"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://dbpedia.org/ontology/birthDate> "1824-6-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://xmlns.com/foaf/0.1/name> "William Shakespeare Burton"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://dbpedia.org/ontology/deathDate> "1916-1-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Burton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Graham_Holderness> <http://purl.org/dc/terms/description> "Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Ghost_(Hamlet)> <http://purl.org/dc/terms/description> "ghost character in Shakespeare's play Hamlet"@en .
+<http://dbpedia.org/resource/Robert_Shallow> <http://purl.org/dc/terms/description> "fictional character in Shakespeare's plays Henry IV, Part 2 and The Merry Wives of Windsor"@en .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://purl.org/dc/terms/description> "American football player"@en .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1963-2-5"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Stanley Shakespeare"@en .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://dbpedia.org/ontology/deathDate> "2005-4-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Stanley"@en .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Stanley_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Demetrius_(Shakespeare)> <http://xmlns.com/foaf/0.1/name> "Demetrius"@en .
+<http://dbpedia.org/resource/Demetrius_(Shakespeare)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://dbpedia.org/ontology/birthDate> "1909-7-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://xmlns.com/foaf/0.1/name> "Harold Jenkins"@en .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://dbpedia.org/ontology/deathDate> "2000-1-4"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://xmlns.com/foaf/0.1/givenName> "Harold"@en .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Harold_Jenkins_(Shakespeare_scholar)> <http://xmlns.com/foaf/0.1/surname> "Jenkins"@en .
+<http://dbpedia.org/resource/Thomas_Shakespeare_(politician)> <http://xmlns.com/foaf/0.1/name> "Thomas Shakespeare"@en .
+<http://dbpedia.org/resource/Thomas_Shakespeare_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Thomas_Shakespeare_(politician)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Thomas_Shakespeare_(politician)> <http://xmlns.com/foaf/0.1/givenName> "Thomas"@en .
+<http://dbpedia.org/resource/Thomas_Shakespeare_(politician)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://dbpedia.org/ontology/birthDate> "1893-9-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://xmlns.com/foaf/0.1/name> "Peter Alexander"@en .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://dbpedia.org/ontology/deathDate> "1969-6-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://xmlns.com/foaf/0.1/givenName> "Peter"@en .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Peter_Alexander_(Shakespearean_scholar)> <http://xmlns.com/foaf/0.1/surname> "Alexander"@en .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://purl.org/dc/terms/description> "son of William Shakespeare"@en .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Hamnet Shakespeare"@en .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1596-8-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Hamnet"@en .
+<http://dbpedia.org/resource/Hamnet_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Shottery> .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://purl.org/dc/terms/description> "English woman, wife of William Shakespeare"@en .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://dbpedia.org/ontology/birthDate> "1556-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://xmlns.com/foaf/0.1/name> "Anne Hathaway"@en .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://xmlns.com/foaf/0.1/surname> "Hathaway"@en .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://dbpedia.org/ontology/deathDate> "1623-8-6"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://xmlns.com/foaf/0.1/givenName> "Anna"@en .
+<http://dbpedia.org/resource/Anne_Hathaway_(Shakespeare's_wife)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Tybalt> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Lady_Macbeth> <http://purl.org/dc/terms/description> "character from Shakespeare's play"@en .
+<http://dbpedia.org/resource/Laertes_(Hamlet)> <http://purl.org/dc/terms/description> "character in William Shakespeare's play Hamlet"@en .
+<http://dbpedia.org/resource/Jean-François_Ducis> <http://purl.org/dc/terms/description> "French dramatist and adapter of Shakespeare"@en .
+<http://dbpedia.org/resource/Susanna_Hall> <http://purl.org/dc/terms/description> "eldest daughter of William Shakespeare"@en .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://purl.org/dc/terms/description> "Botanist"@en .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://dbpedia.org/ontology/birthDate> "1853-5-7"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://xmlns.com/foaf/0.1/name> "Arthur Henry Shakespeare Lucas"@en .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://xmlns.com/foaf/0.1/surname> "Lucas"@en .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://dbpedia.org/ontology/deathDate> "1936-6-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://xmlns.com/foaf/0.1/givenName> "Arthur"@en .
+<http://dbpedia.org/resource/Arthur_Henry_Shakespeare_Lucas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Howard_Staunton> <http://purl.org/dc/terms/description> "English chess master and Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Henri_Fluchère> <http://purl.org/dc/terms/description> "chairman of the Société Française Shakespeare, literary critic"@en .
+<http://dbpedia.org/resource/Horatio_(Hamlet)> <http://purl.org/dc/terms/description> "character in William Shakespeare's tragedy Hamlet"@en .
+<http://dbpedia.org/resource/James_Halliwell-Phillipps> <http://purl.org/dc/terms/description> "English Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Hermia> <http://purl.org/dc/terms/description> "a character in William Shakespeare's A Midsummer Nights Dream"@en .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingston,_Jamaica> .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1953-9-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Robert Shakespeare"@en .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Robert"@en .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robbie_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Desdemona> <http://purl.org/dc/terms/description> "fictional character in William Shakespeare's play Othello"@en .
+<http://dbpedia.org/resource/Judith_Quiney> <http://purl.org/dc/terms/description> "younger daughter of William Shakespeare"@en .
+<http://dbpedia.org/resource/Sir_Thomas_Hanmer,_4th_Baronet> <http://purl.org/dc/terms/description> "4th Baronet Hanmer, Speaker of the House of Commons, and Shakespearean editor"@en .
+<http://dbpedia.org/resource/Shakespearean_fool> <http://xmlns.com/foaf/0.1/name> "Shakespearean fool"@en .
+<http://dbpedia.org/resource/Shakespearean_fool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Kent_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Kent Shakespeare"@en .
+<http://dbpedia.org/resource/Kent_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Kent_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Kent"@en .
+<http://dbpedia.org/resource/Kent_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Kent_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Macduff_(Macbeth)> <http://purl.org/dc/terms/description> "Fictional character in the play Macbeth by Shakespeare"@en .
+<http://dbpedia.org/resource/Samuel_Schoenbaum> <http://purl.org/dc/terms/description> "Shakespearean biographer and scholar"@en .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Mission,_British_Columbia> .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://purl.org/dc/terms/description> "Canadian swimmer, Olympic athlete, world champion"@en .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1977-5-6"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Shannon Shakespeare"@en .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Shannon"@en .
+<http://dbpedia.org/resource/Shannon_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Tattenbaum> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Shakespeare,_New_Mexico> .
+<http://dbpedia.org/resource/William_Henry_Ireland> <http://purl.org/dc/terms/description> "English forger of Shakespearean documents and plays"@en .
+<http://dbpedia.org/resource/E._K._Chambers> <http://purl.org/dc/terms/description> "English literary critic and Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Delia_Bacon> <http://purl.org/dc/terms/description> "best known for her work on Shakespearean authorship"@en .
+<http://dbpedia.org/resource/Abigail_Rokison> <http://purl.org/dc/terms/description> "Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Sebring,_Florida> .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://purl.org/dc/terms/description> "American murder victim"@en .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1966-4-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Abraham Shakespeare"@en .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Plant_City,_Florida> .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://dbpedia.org/ontology/deathDate> "2009-4-7"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Abraham"@en .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Abraham_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://purl.org/dc/terms/description> "mother of William Shakespeare"@en .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1530-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Mary Shakespeare"@en .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1608-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Mary"@en .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mary_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Anne_Whateley> <http://purl.org/dc/terms/description> "Intended wife of Shakespeare"@en .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://purl.org/dc/terms/description> "Australian journalist"@en .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1897-9-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Arthur Shakespeare"@en .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1975-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Arthur"@en .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Arthur_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Bernard_Beckerman> <http://purl.org/dc/terms/description> "Theatre director and Shakespeare scholar"@en .
+<http://dbpedia.org/resource/Mary_Fitton> <http://purl.org/dc/terms/description> "possible Dark Lady of Shakespeare's sonnets"@en .
+<http://dbpedia.org/resource/Count_Paris> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Birmingham> .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://purl.org/dc/terms/description> "footballer"@en .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1963-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Craig Shakespeare"@en .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Craig"@en .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Craig_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Dogberry> <http://purl.org/dc/terms/description> "fictional character from the Shakespeare play Much Ado About Nothing"@en .
+<http://dbpedia.org/resource/Don_Pedro_(character)> <http://purl.org/dc/terms/description> "fictional character from William Shakespeare's play Much Ado About Nothing"@en .
+<http://dbpedia.org/resource/E._A._J._Honigmann> <http://purl.org/dc/terms/description> "Professor of English Literature, Shakespearean scholar, Fellow of the British Academy"@en .
+<http://dbpedia.org/resource/E._F._C._Ludowyk> <http://purl.org/dc/terms/description> "Ceylonese Burgher Shakespearean scholar, author, playwright and critic"@en .
+<http://dbpedia.org/resource/Edmund_(King_Lear)> <http://purl.org/dc/terms/description> "Character in Shakespeare's King Lear"@en .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://purl.org/dc/terms/description> "brother of William Shakespeare"@en .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1580-0-0"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Edmund Shakespeare"@en .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1607-12-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Edmund"@en .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edmund_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Elizabeth_Barnard> <http://purl.org/dc/terms/description> "granddaughter of William Shakespeare"@en .
+<http://dbpedia.org/resource/Emily_Jordan_Folger> <http://purl.org/dc/terms/description> "Co-founder of the Folger Shakespeare Library"@en .
+<http://dbpedia.org/resource/Ferdinand_(The_Tempest)> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Philadelphia> .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://purl.org/dc/terms/description> "American rower"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://dbpedia.org/ontology/birthDate> "1930-5-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://xmlns.com/foaf/0.1/name> "Frank Shakespeare"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://xmlns.com/foaf/0.1/givenName> "Frank"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Frank_Shakespeare_(rower)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://purl.org/dc/terms/description> "American businessman and diplomat"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1925-4-9"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Frank Shakespeare"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Frank"@en .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Frank_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Frederick_Gard_Fleay> <http://purl.org/dc/terms/description> "Shakespeare scholar"@en .
+<http://dbpedia.org/resource/Friar_Laurence> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://purl.org/dc/terms/description> "British politician"@en .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1893-9-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Geoffrey Shakespeare"@en .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1980-9-8"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Geoffrey"@en .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Geoffrey_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://purl.org/dc/terms/description> "brother of William Shakespeare"@en .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1566-0-0"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Gilbert Shakespeare"@en .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Gilbert"@en .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gilbert_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Gonzalo_(The_Tempest)> <http://purl.org/dc/terms/description> "character in The Tempest by William Shakespeare"@en .
+<http://dbpedia.org/resource/Henry_Clay_Folger> <http://purl.org/dc/terms/description> "American Shakespeare collector, philanthropist, and co-founder of the Folger Shakespeare Library"@en .
+<http://dbpedia.org/resource/Isaac_Reed> <http://purl.org/dc/terms/description> "English Shakespearean editor"@en .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://purl.org/dc/terms/description> "Comedy writer"@en .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1952-7-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Ivan Shakespeare"@en .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://dbpedia.org/ontology/deathDate> "2000-2-3"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Ivan"@en .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ivan_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/J._Dover_Wilson> <http://purl.org/dc/terms/description> "Shakespearean scholar"@en .
+<http://dbpedia.org/resource/James_Alexander_Cowan> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Shakespeare,_Ontario> .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://purl.org/dc/terms/description> "Australian singer"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://dbpedia.org/ontology/birthDate> "1948-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://dbpedia.org/ontology/deathDate> "2010-10-5"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Shakespeare_(singer)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://purl.org/dc/terms/description> "sister of William Shakespeare"@en .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1569-4-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Joan Shakespeare"@en .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1646-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Joan"@en .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Joan_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://purl.org/dc/terms/description> "Australian rugby league player"@en .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1883-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Joe Shakespeare"@en .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1935-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Joe"@en .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Joe_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/John_Fraser_(British_Columbia_politician)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Shakespeare,_Ontario> .
+<http://dbpedia.org/resource/John_Hall_(physician)> <http://purl.org/dc/terms/description> "English physician and son-in-law of William Shakespeare, born 1675"@en .
+<http://dbpedia.org/resource/John_Robinson_(17th_century)> <http://purl.org/dc/terms/description> "tenant of William Shakespeare"@en .
+<http://dbpedia.org/resource/Joseph_Quincy_Adams_Jr.> <http://purl.org/dc/terms/description> "Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Miranda_(The_Tempest)> <http://purl.org/dc/terms/description> "Shakespeare"@en .
+<http://dbpedia.org/resource/Libby_Appel> <http://purl.org/dc/terms/description> "4th artistic director:Oregon Shakespeare Festival"@en .
+<http://dbpedia.org/resource/Ariel_(The_Tempest)> <http://purl.org/dc/terms/description> "Shakespeare's character"@en .
+<http://dbpedia.org/resource/Romeo> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://purl.org/dc/terms/description> "English speedway rider"@en .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1950-4-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Malcolm Shakespeare"@en .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Malcolm"@en .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Malcolm_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Maria_(Twelfth_Night)> <http://purl.org/dc/terms/description> "fictional character in Shakespeare's Twelfth Night"@en .
+<http://dbpedia.org/resource/Mary_Saunderson> <http://purl.org/dc/terms/description> "17th century Shakespearean actress"@en .
+<http://dbpedia.org/resource/William_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/William_Shakespeare> <http://purl.org/dc/terms/description> "English playwright and poet"@en .
+<http://dbpedia.org/resource/William_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1564-0-0"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/William_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1616-4-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Nurse_(Romeo_and_Juliet)> <http://purl.org/dc/terms/description> "character in William Shakespeare's drama Romeo and Juliet"@en .
+<http://dbpedia.org/resource/Olivia_(Twelfth_Night)> <http://purl.org/dc/terms/description> "fictional character from William Shakespeare's play Twelfth Night"@en .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kates_Hill> .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://purl.org/dc/terms/description> "Painter from Dudley, England."@en .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1906-2-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Percy Shakespeare"@en .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1943-5-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Percy"@en .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Percy_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/John_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/John_Shakespeare> <http://purl.org/dc/terms/description> "father of William Shakespeare"@en .
+<http://dbpedia.org/resource/John_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1530-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/John_Shakespeare> <http://xmlns.com/foaf/0.1/name> "John Shakespeare"@en .
+<http://dbpedia.org/resource/John_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/John_Shakespeare> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Stratford-upon-Avon> .
+<http://dbpedia.org/resource/John_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1601-9-8"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/John_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "John"@en .
+<http://dbpedia.org/resource/John_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Portia_(The_Merchant_of_Venice)> <http://purl.org/dc/terms/description> "heroine of William Shakespeare's The Merchant of Venice"@en .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Worcester> .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://purl.org/dc/terms/description> "Novelist and journalist"@en .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1957-3-3"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Nicholas Shakespeare"@en .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Nicholas"@en .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Nicholas_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Richard_Farmer> <http://purl.org/dc/terms/description> "English Shakespearean scholar and academic"@en .
+<http://dbpedia.org/resource/Richard_Robinson_(actor)> <http://purl.org/dc/terms/description> "English actor, a member of Shakespeare's company the King's Men"@en .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://purl.org/dc/terms/description> "grandfather of William Shakespeare"@en .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1490-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Richard Shakespeare"@en .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://dbpedia.org/ontology/deathDate> "1561-2-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Richard"@en .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Richard_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Richard_Wilson_(scholar)> <http://purl.org/dc/terms/description> "Professor of Shakespeare Studies at Kingston University, London"@en .
+<http://dbpedia.org/resource/Roderigo> <http://purl.org/dc/terms/description> "fictional character in William Shakespeare's Othello"@en .
+<http://dbpedia.org/resource/Ronald_Watkins> <http://purl.org/dc/terms/description> "English Shakespeare expert"@en .
+<http://dbpedia.org/resource/Rosalind_(As_You_Like_It)> <http://purl.org/dc/terms/description> "character in William Shakespeare's play As You Like It"@en .
+<http://dbpedia.org/resource/Samuel_Timmins> <http://purl.org/dc/terms/description> "British Shakespearean scholar and antiquarian"@en .
+<http://dbpedia.org/resource/Samuel_Weller_Singer> <http://purl.org/dc/terms/description> "British Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Sebastian_(Twelfth_Night)> <http://purl.org/dc/terms/description> "fictional character from William Shakespeare's play Twelfth Night"@en .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Almondbury> .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://purl.org/dc/terms/description> "British actor and writer"@en .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://dbpedia.org/ontology/birthDate> "1841-2-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://xmlns.com/foaf/0.1/name> "Shakespeare Hirst"@en .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Huddersfield> .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://dbpedia.org/ontology/deathDate> "1907-5-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Shakespeare_Hirst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Stanley_Wells> <http://purl.org/dc/terms/description> "Shakespearean scholar"@en .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://purl.org/dc/terms/description> "Opinion pollster"@en .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://dbpedia.org/ontology/birthDate> "1957-4-9"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://xmlns.com/foaf/0.1/name> "Stephan Shakespeare"@en .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://xmlns.com/foaf/0.1/givenName> "Stephan"@en .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Stephan_Shakespeare> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/Stephano_(The_Tempest)> <http://purl.org/dc/terms/description> "character in The Tempest by William Shakespeare"@en .
+<http://dbpedia.org/resource/The_Gravediggers> <http://purl.org/dc/terms/description> "examples of Shakespearean fools, a recurring type of character in Shakespeare's plays"@en .
+<http://dbpedia.org/resource/Thomas_Nash> <http://purl.org/dc/terms/description> "first husband of William Shakespeare's granddaughter Elizabeth"@en .
+<http://dbpedia.org/resource/Thomas_Posthumous_Hoby> <http://purl.org/dc/terms/description> "Member of Parliament and claimed as the inspiration for Shakespeare's character Malvolio"@en .
+<http://dbpedia.org/resource/Viola_(Twelfth_Night)> <http://purl.org/dc/terms/description> "fictional character from the play Twelfth Night, written by William Shakespeare"@en .
+<http://dbpedia.org/resource/W._W._Greg> <http://purl.org/dc/terms/description> "English bibliographer and Shakespeare scholar"@en .
+<http://dbpedia.org/resource/William_George_Clark> <http://purl.org/dc/terms/description> "English classical and Shakespearean scholar"@en .
+<http://dbpedia.org/resource/William_James_Rolfe> <http://purl.org/dc/terms/description> "American educator and Shakespearean scholar"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://purl.org/dc/terms/description> "American football player"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://dbpedia.org/ontology/birthDate> "1912-9-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://dbpedia.org/ontology/deathDate> "1974-1-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Shakespeare_(American_football)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://purl.org/dc/terms/description> "English cricketer"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://dbpedia.org/ontology/birthDate> "1893-8-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://dbpedia.org/ontology/deathDate> "1976-7-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Shakespeare_(cricketer)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://purl.org/dc/terms/description> "Inventor"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://dbpedia.org/ontology/birthDate> "1869-0-0"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://dbpedia.org/ontology/deathDate> "1950-6-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Shakespeare_(inventor)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Croydon> .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://purl.org/dc/terms/description> "British opera singer"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://dbpedia.org/ontology/birthDate> "1849-6-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://dbpedia.org/ontology/deathDate> "1931-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Shakespeare_(tenor)> <http://xmlns.com/foaf/0.1/surname> "Shakespeare"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://purl.org/dc/terms/description> "Anglo-Australian explorer, pastoralist and pearler"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://dbpedia.org/ontology/birthDate> "1825-1-1"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://xmlns.com/foaf/0.1/name> "William Shakespeare Hall"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://dbpedia.org/ontology/deathDate> "1895-2-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/William_Shakespeare_Hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/William_Sidney_Walker> <http://purl.org/dc/terms/description> "English Shakespearean critic"@en .
+<http://dbpedia.org/resource/Benvolio> <http://purl.org/dc/terms/description> "Shakespeare character"@en .
+<http://dbpedia.org/resource/Prospero> <http://purl.org/dc/terms/description> "Character of The Tempest (Shakespeare)"@en .
